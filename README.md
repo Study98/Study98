@@ -14,6 +14,7 @@ Me chamo Luiz Felipe Cunha de Carvalho </h1>
 - 🐱‍👤 Pronouns: Ele/Dele
 - Redes de Contato:
 <div> 
+<a href="mailto:lfcunha.ti@gmail.com" target="_blank"><img src="https://img.icons8.com/fluency/48/ffffff/gmail-new.png"/></a>
 <a href="https://www.linkedin.com/in/lfti2907/" target="_blank"><img src="https://img.icons8.com/color/48/ffffff/linkedin.png"/></a>
 </div>
 
