@@ -3,7 +3,6 @@ Me chamo Luiz Felipe Cunha de Carvalho </h1>
 <a href="https://icons8.com/icon/Rc0Xn5AtE8kX/python"></a>
 
 - 🔭 Atualmente, tenho trabalhado com back-end voltado para desenvolvimento Web, utilizando o framework Django (Python)
-- 📪 Meu contato principal é o meu gmail: lfcunha.ti@gmail.com
 - 🌱 Quanto a Estudos, tenho aprimorado os meus conhecimentos em Python, porém venho estudando algumas outras coisas como:
   * Padrões de Projetos de Desenvolvimento (Design Patterns);
   * Mysql;
