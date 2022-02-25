@@ -24,17 +24,17 @@ Me chamo Luiz Felipe Cunha de Carvalho </h1>
 </div>
  <div> 
   <h3> 🐱‍💻 Principais Stacks 🐱‍💻</h3>
-  <img  src="https://img.icons8.com/color/96/000000/python--v2.png"/>
+  <img  src="https://img.icons8.com/color/48/000000/python--v2.png"/>
   <img  src="https://img.icons8.com/material-rounded/24/ffffff/full-stop.png"/>
-  <img src="https://img.icons8.com/fluency/96/ffffff/mysql-logo.png"/>
+  <img src="https://img.icons8.com/fluency/48/ffffff/mysql-logo.png"/>
   <img  src="https://img.icons8.com/material-rounded/24/ffffff/full-stop.png"/>
-  <img src="https://img.icons8.com/color/96/ffffff/django.png"/>
+  <img src="https://img.icons8.com/color/48/ffffff/django.png"/>
   <img  src="https://img.icons8.com/material-rounded/24/ffffff/full-stop.png"/>
-  <img src="https://img.icons8.com/color/96/ffffff/html-5--v1.png"/>
+  <img src="https://img.icons8.com/color/48/ffffff/html-5--v1.png"/>
   <img  src="https://img.icons8.com/material-rounded/24/ffffff/full-stop.png"/>
-  <img src="https://img.icons8.com/color/96/ffffff/css3.png"/>
+  <img src="https://img.icons8.com/color/48/ffffff/css3.png"/>
   <img  src="https://img.icons8.com/material-rounded/24/ffffff/full-stop.png"/>
-  <img src="https://img.icons8.com/color/96/ffffff/trello.png"/>
+  <img src="https://img.icons8.com/color/48/ffffff/trello.png"/>
   <img  src="https://img.icons8.com/material-rounded/24/ffffff/full-stop.png"/>
-  <img src="https://img.icons8.com/external-filled-outline-wichaiwi/96/ffffff/external-ux-uxui-design-filled-outline-wichaiwi.png"/>
+  <img src="https://img.icons8.com/external-filled-outline-wichaiwi/48/ffffff/external-ux-uxui-design-filled-outline-wichaiwi.png"/>
  </div>
